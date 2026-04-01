@@ -53,17 +53,17 @@ def home():
         
         <div class="route">
             <a href="/posts/">/posts/</a>
-            <p class="description">Fetch all posts from JSONPlaceholder</p>
+            <p class="description">This link fetches all the posts from JSONPlaceholder</p>
         </div>
         
         <div class="route">
             <a href="/comments/">/comments/</a>
-            <p class="description">Fetch all comments from JSONPlaceholder</p>
+            <p class="description">This link fetches all the comments from JSONPlaceholder</p>
         </div>
         
         <div class="route">
             <a href="/albums/">/albums/</a>
-            <p class="description">Fetch all albums from JSONPlaceholder</p>
+            <p class="description">This link fetches all the albums from JSONPlaceholder</p>
         </div>
     </body>
     </html>
